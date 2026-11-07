@@ -1,0 +1,73 @@
+{
+    "x": -110,
+    "y": 80,
+    "speed": 5,
+    "hp": 88,
+    "max_hp": 100,
+    "mana": 50,
+    "max_mana": 50,
+    "level": 2,
+    "xp": 60,
+    "xp_needed": 150,
+    "base_attack": 26,
+    "base_defense": 19,
+    "base_crit": 5,
+    "skill_points": 1,
+    "unlocked_skills": [],
+    "equipped_weapon": {
+        "id": "arc_legendaire",
+        "name": "Arc légendaire",
+        "type": "Arme",
+        "icon": "arcleg",
+        "kind": "ranged",
+        "attack": 20,
+        "defense": 0,
+        "crit": 12,
+        "weight": 3.5,
+        "description": "Un arc forgé pour les guerriers les plus redoutables."
+    },
+    "equipped_shield": null,
+    "inventory": {
+        "items": [
+            {
+                "id": "epee_basique",
+                "name": "Épée basique",
+                "type": "Arme",
+                "icon": "sword_bas",
+                "kind": "melee",
+                "attack": 5,
+                "defense": 0,
+                "crit": 1,
+                "weight": 5.2,
+                "description": "Une ancienne épée utilisée par les escrimeurs."
+            },
+            {
+                "id": "arc_legendaire",
+                "name": "Arc légendaire",
+                "type": "Arme",
+                "icon": "arcleg",
+                "kind": "ranged",
+                "attack": 20,
+                "defense": 0,
+                "crit": 12,
+                "weight": 3.5,
+                "description": "Un arc forgé pour les guerriers les plus redoutables."
+            }
+        ],
+        "category": "Arme",
+        "selected": null
+    },
+    "hotbar": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+    ],
+    "stamina": 100,
+    "objet_sol_ramasse": true
+}

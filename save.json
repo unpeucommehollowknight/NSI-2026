@@ -1,0 +1,369 @@
+{
+    "x": 9387.872066998909,
+    "y": 179.0,
+    "speed": 5,
+    "hp": 100,
+    "max_hp": 100,
+    "mana": 50,
+    "max_mana": 50,
+    "level": 4,
+    "xp": 1654,
+    "xp_needed": 2553,
+    "base_attack": 36,
+    "base_defense": 26,
+    "base_crit": 5,
+    "skill_points": 8,
+    "unlocked_skills": [],
+    "equipped_weapon": {
+        "name": "Arc légendaire",
+        "type": "Arme",
+        "icon": "arcleg",
+        "attack": 20,
+        "defense": 0,
+        "crit": 12,
+        "weight": 3.5,
+        "description": "Un arc légendaire forgé pour les guerriers les plus redoutables."
+    },
+    "equipped_shield": {
+        "name": "Bouclier ancien",
+        "type": "Équipement",
+        "icon": "shield",
+        "attack": 0,
+        "defense": 10,
+        "crit": 0,
+        "weight": 7.0,
+        "description": "Un vieux bouclier capable de résister aux coups."
+    },
+    "inventory": {
+        "items": [
+            {
+                "name": "Épée basique ",
+                "type": "Arme",
+                "icon": "sword_bas",
+                "attack": 5,
+                "defense": 0,
+                "crit": 1,
+                "weight": 5.2,
+                "description": "Une ancienne épée utilisée par les escrimeurs."
+            },
+            {
+                "name": "Épée en Or ",
+                "type": "Arme",
+                "icon": "sword",
+                "attack": 10,
+                "defense": 0,
+                "crit": 2,
+                "weight": 5.2,
+                "description": "Une ancienne épée utilisée par les chevaliers."
+            },
+            {
+                "name": "Arc basique ",
+                "type": "Arme",
+                "icon": "arcbas",
+                "attack": 4,
+                "defense": 0,
+                "crit": 5,
+                "weight": 3.5,
+                "description": "Un arc légendaire forgé pour les guerriers les plus redoutables."
+            },
+            {
+                "name": "Arc légendaire",
+                "type": "Arme",
+                "icon": "arcleg",
+                "attack": 20,
+                "defense": 0,
+                "crit": 12,
+                "weight": 3.5,
+                "description": "Un arc légendaire forgé pour les guerriers les plus redoutables."
+            },
+            {
+                "name": "Bouclier en Ecaille de Dragon ",
+                "type": "Équipement",
+                "icon": "shield",
+                "attack": 0,
+                "defense": 40,
+                "crit": 0,
+                "weight": 7.0,
+                "description": "Un bouclier cree a partir d ecaille de dragon."
+            },
+            {
+                "name": "Bouclier ancien",
+                "type": "Équipement",
+                "icon": "shield",
+                "attack": 0,
+                "defense": 10,
+                "crit": 0,
+                "weight": 7.0,
+                "description": "Un vieux bouclier capable de résister aux coups."
+            },
+            {
+                "name": "Potion de soin",
+                "type": "Objet",
+                "icon": "potion",
+                "attack": 0,
+                "defense": 0,
+                "crit": 0,
+                "weight": 0.5,
+                "description": "Restaure des points de vie."
+            },
+            {
+                "name": "Potion de mana",
+                "type": "Objet",
+                "icon": "mana",
+                "attack": 0,
+                "defense": 0,
+                "crit": 0,
+                "weight": 0.5,
+                "description": "Restaure des points de mana."
+            },
+            {
+                "name": "Arc légendaire",
+                "type": "Arme",
+                "icon": "arcleg",
+                "attack": 20,
+                "defense": 0,
+                "crit": 12,
+                "weight": 3.5,
+                "description": "Un arc légendaire forgé pour les guerriers les plus redoutables."
+            },
+            {
+                "name": "Potion de soin",
+                "type": "Objet",
+                "icon": "potion",
+                "attack": 0,
+                "defense": 0,
+                "crit": 0,
+                "weight": 0.5,
+                "description": "Restaure des points de vie."
+            },
+            {
+                "name": "Potion de soin",
+                "type": "Objet",
+                "icon": "potion",
+                "attack": 0,
+                "defense": 0,
+                "crit": 0,
+                "weight": 0.5,
+                "description": "Restaure des points de vie."
+            },
+            {
+                "name": "Potion de soin",
+                "type": "Objet",
+                "icon": "potion",
+                "attack": 0,
+                "defense": 0,
+                "crit": 0,
+                "weight": 0.5,
+                "description": "Restaure des points de vie."
+            },
+            {
+                "name": "Potion de mana",
+                "type": "Objet",
+                "icon": "mana",
+                "attack": 0,
+                "defense": 0,
+                "crit": 0,
+                "weight": 0.5,
+                "description": "Restaure des points de mana."
+            },
+            {
+                "name": "Potion de soin",
+                "type": "Objet",
+                "icon": "potion",
+                "attack": 0,
+                "defense": 0,
+                "crit": 0,
+                "weight": 0.5,
+                "description": "Restaure des points de vie."
+            },
+            {
+                "name": "Potion de mana",
+                "type": "Objet",
+                "icon": "mana",
+                "attack": 0,
+                "defense": 0,
+                "crit": 0,
+                "weight": 0.5,
+                "description": "Restaure des points de mana."
+            },
+            {
+                "name": "Potion de mana",
+                "type": "Objet",
+                "icon": "mana",
+                "attack": 0,
+                "defense": 0,
+                "crit": 0,
+                "weight": 0.5,
+                "description": "Restaure des points de mana."
+            },
+            {
+                "name": "Potion de mana",
+                "type": "Objet",
+                "icon": "mana",
+                "attack": 0,
+                "defense": 0,
+                "crit": 0,
+                "weight": 0.5,
+                "description": "Restaure des points de mana."
+            },
+            {
+                "name": "Potion de mana",
+                "type": "Objet",
+                "icon": "mana",
+                "attack": 0,
+                "defense": 0,
+                "crit": 0,
+                "weight": 0.5,
+                "description": "Restaure des points de mana."
+            },
+            {
+                "name": "Potion de soin",
+                "type": "Objet",
+                "icon": "potion",
+                "attack": 0,
+                "defense": 0,
+                "crit": 0,
+                "weight": 0.5,
+                "description": "Restaure des points de vie."
+            },
+            {
+                "name": "Potion de mana",
+                "type": "Objet",
+                "icon": "mana",
+                "attack": 0,
+                "defense": 0,
+                "crit": 0,
+                "weight": 0.5,
+                "description": "Restaure des points de mana."
+            },
+            {
+                "name": "Potion de soin",
+                "type": "Objet",
+                "icon": "potion",
+                "attack": 0,
+                "defense": 0,
+                "crit": 0,
+                "weight": 0.5,
+                "description": "Restaure des points de vie."
+            },
+            {
+                "name": "Potion de soin",
+                "type": "Objet",
+                "icon": "potion",
+                "attack": 0,
+                "defense": 0,
+                "crit": 0,
+                "weight": 0.5,
+                "description": "Restaure des points de vie."
+            },
+            {
+                "name": "Potion de soin",
+                "type": "Objet",
+                "icon": "potion",
+                "attack": 0,
+                "defense": 0,
+                "crit": 0,
+                "weight": 0.5,
+                "description": "Restaure des points de vie."
+            },
+            {
+                "name": "Potion de mana",
+                "type": "Objet",
+                "icon": "mana",
+                "attack": 0,
+                "defense": 0,
+                "crit": 0,
+                "weight": 0.5,
+                "description": "Restaure des points de mana."
+            },
+            {
+                "name": "Potion de mana",
+                "type": "Objet",
+                "icon": "mana",
+                "attack": 0,
+                "defense": 0,
+                "crit": 0,
+                "weight": 0.5,
+                "description": "Restaure des points de mana."
+            }
+        ],
+        "category": "Objet",
+        "selected": {
+            "name": "Potion de soin",
+            "type": "Objet",
+            "icon": "potion",
+            "attack": 0,
+            "defense": 0,
+            "crit": 0,
+            "weight": 0.5,
+            "description": "Restaure des points de vie."
+        }
+    },
+    "hotbar": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+    ],
+    "stamina": 100,
+    "objet_sol_ramasse": true,
+    "play_time": 764.6177666667209,
+    "death_count": 4,
+    "mobs_killed": 50,
+    "checkpoint": [
+        4,
+        4824.0,
+        179
+    ],
+    "progress": {
+        "1": {
+            "defeated": [
+                "capitaine"
+            ],
+            "chests": [
+                "43:6",
+                "83:3",
+                "98:9"
+            ],
+            "doors": [
+                "76:3"
+            ]
+        },
+        "2": {
+            "defeated": [
+                "cuisinier",
+                "gouvernante"
+            ],
+            "chests": [
+                "46:7",
+                "73:3",
+                "89:3",
+                "98:9",
+                "99:3"
+            ],
+            "doors": [
+                "86:3"
+            ]
+        },
+        "3": {
+            "defeated": [
+                "connetable"
+            ],
+            "chests": [],
+            "doors": []
+        },
+        "4": {
+            "defeated": [
+                "reine",
+                "roi"
+            ],
+            "chests": [],
+            "doors": []
+        }
+    }
+}
